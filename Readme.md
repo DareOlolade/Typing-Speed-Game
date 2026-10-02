@@ -1,4 +1,4 @@
-# SEBIVALLO Typing Speed Game
+# Ololade Typing Speed Game
 
 A simple command-line interface (CLI) typing speed test game built using Python's `curses` library. Test your typing skills and measure your speed in Words Per Minute (WPM)!
 
